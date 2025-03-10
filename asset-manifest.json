@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.0651def2.css",
-    "main.js": "/static/js/main.77916c1d.js",
-    "index.html": "/index.html",
-    "main.0651def2.css.map": "/static/css/main.0651def2.css.map",
-    "main.77916c1d.js.map": "/static/js/main.77916c1d.js.map"
+    "main.css": "/gestor-empleados/static/css/main.0651def2.css",
+    "main.js": "/gestor-empleados/static/js/main.77916c1d.js",
+    "index.html": "/gestor-empleados/index.html",
+    "main.0651def2.css.map": "/gestor-empleados/static/css/main.0651def2.css.map",
+    "main.77916c1d.js.map": "/gestor-empleados/static/js/main.77916c1d.js.map"
   },
   "entrypoints": [
     "static/css/main.0651def2.css",
